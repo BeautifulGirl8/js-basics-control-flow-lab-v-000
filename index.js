@@ -1,5 +1,5 @@
 function scuberGreetingForFeet (199) {
-  return "This one is on me!"
+  return 'This one is on me!';
 }
 
 
