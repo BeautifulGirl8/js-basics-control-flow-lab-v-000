@@ -1,4 +1,5 @@
 function scuberGreetingForFeet (199) {
+  if the ride =< 400ft 
   return 'This one is on me!';
 }
 
